@@ -8,7 +8,7 @@ The repository is organized as follows:
 
 - [1_familiar_with_data.ipynb](1_familiar_with_data.ipynb): the purpose of getting familiar with the dataset used in the analysis.
 
-- [2_compare_wiener&OF.ipynb](2_compare_wiener_OF.ipynb): a comparison is made between the outputs of the optimal filter and the Wiener filter using the available data.
+- [2_compare_wiener&OF.ipynb](2_compare_wiener%26OF.ipynb): a comparison is made between the outputs of the optimal filter and the Wiener filter using the available data.
 
 - [3_implement_fir_compare_OF.ipynb](3_implement_fir_compare_OF.ipynb): we develop Finite Impulse Response (FIR) filters with linear, quadratic, and cubic characteristics and compare their performance against the optimal filter.
 
